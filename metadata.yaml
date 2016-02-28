@@ -1,0 +1,25 @@
+_repo: Fielding_6689
+creator:
+  author:
+    agent_name: Dobson, Austin
+    alias: Dobson, Henry Austin
+    birthdate: 1840
+    deathdate: 1921
+    gutenberg_agent_id: '2155'
+    url: http://www.gutenberg.org/2009/agents/2155
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Austin_Dobson
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6689'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Authors, English -- 18th century -- Biography'
+- !lcsh 'Fielding, Henry, 1707-1754'
+title: Fielding
+url: http://www.gutenberg.org/ebooks/6689
